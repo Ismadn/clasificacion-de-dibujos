@@ -1,4 +1,4 @@
-# Trabajo Práctico: Clasificación de dibujos con modelos de predicción
+# Trabajo Práctico: Clasificación de imágenes con modelos de predicción
 
 ## Descripción
 
